@@ -1,0 +1,17 @@
+# 1. Alles ignorieren
+*
+
+# 2. Ordner-Struktur aber behalten
+!*/
+
+# 3. Ausnahmen: Was wir UNBEDINGT behalten wollen
+!*.cpp
+!*.h
+!*.hpp
+!README.md
+!.gitignore
+
+# 4. (Optional) Falls du PDFs oder Bilder im Repo hast
+!*.pdf
+!*.png
+!*.jpg
